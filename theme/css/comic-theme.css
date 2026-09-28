@@ -1,0 +1,22 @@
+:root{
+ --comic-yellow:#FFD400;
+ --comic-black:#111111;
+ --comic-white:#ffffff;
+}
+
+body{
+ background:#111111;
+}
+
+.comic-card{
+ border:3px solid #FFD400;
+ background:#fff;
+ box-shadow:8px 8px 0 #FFD400;
+}
+
+.comic-button{
+ background:#FFD400;
+ color:#111;
+ font-weight:bold;
+ border:2px solid #111;
+}
